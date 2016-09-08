@@ -1,0 +1,22 @@
+{
+  "name": "testpods",
+  "version": "0.1.0",
+  "summary": "A short description of testpods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/testpods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuty": "xutongyin@dcloud.io"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/testpods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testpods/Classes/**/*"
+}
